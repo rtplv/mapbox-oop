@@ -1,0 +1,1 @@
+export const token = process.env.VUE_APP_MAPBOX_TOKEN;
